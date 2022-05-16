@@ -1,0 +1,4 @@
+```text  
+EmailAddress,ResignationDate,LastWorkingDate
+EricG@ContosoTeam1lab.onmicrosoft.com,2020-12-01T15:18:02.4675041+05:30,2020-12-30T15:18:02.4675041+05:30
+```  
